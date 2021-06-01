@@ -11,9 +11,9 @@
 
 # 目录
 > 每一家的静态资源我都会做一个目录标题出来，方便大家查看
-* [75CDN](https://github.com/paopao233/StaticResourcesCdn#%E9%9B%B6%E4%B8%83%E7%94%9F%E6%B4%BBapi)
+* [75CDN](https://github.com/paopao233/StaticResourcesCdn#75cdn)
 
-# 接口
+# 资源站
 ### 75CDN  
 > 推荐理由：全啊，啥资源的cdn都有 比如vue、bootstrap..共收录了 4032 个开源项目
 * [75CDN](https://cdn.baomitu.com/) - 首个支持 HTTP/2 的 CDN 服务
