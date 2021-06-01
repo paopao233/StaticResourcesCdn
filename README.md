@@ -15,7 +15,7 @@
 
 # 资源站
 ### 75CDN  
-> 推荐理由：全啊，啥资源的cdn都有 比如vue、bootstrap..共收录了 4032 个开源项目
+> 推荐理由：全啊，啥资源的cdn都有 比如vue、bootstrap..共收录了 4032 个开源项目。主要里面还有GOOGLE字体库！
 * [75CDN](https://cdn.baomitu.com/) - 首个支持 HTTP/2 的 CDN 服务
 
 
